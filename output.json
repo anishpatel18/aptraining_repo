@@ -1,0 +1,14 @@
+{
+    "Username": "anishpatel",
+    "Password": "anishpatel1000",
+    "ID": 1,
+    "Email Address": "anishpatel@atlanta.com",
+    "First Name": "Anish",
+    "Last Name": "Patel",
+    "Age": 24,
+    "House Address": "1234 Welcome to Flask App St",
+    "State": "GA",
+    "City": "Atlanta",
+    "Zip Code": "12345",
+    "Country": "United States of America"
+}
